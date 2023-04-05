@@ -1,6 +1,7 @@
 '''
 source .venv/bin/activate
-py2puml examples/doc_as_code examples.doc_as_code > examples/doc_as_code/doc_as_code.puml
+cd examples
+py2puml doc_as_code doc_as_code > doc_as_code/doc_as_code.puml
 '''
 from dataclasses import dataclass
 
