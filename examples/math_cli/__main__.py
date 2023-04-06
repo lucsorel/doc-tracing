@@ -23,8 +23,11 @@ def fibonacci(value: int):
 
 @trace_to_puml
 def factorial(value: int):
+    try:
         result = factorial_reduce(value)
-        print(f'factorial {value} = {result}')
+    except ValueError as ve:
+        result = str(ve)
+    print(f'factorial {value} = {result}')
 
 def math_cli():
     '''Cli entrypoint'''
