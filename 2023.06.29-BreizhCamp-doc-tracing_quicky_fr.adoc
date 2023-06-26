@@ -9,7 +9,7 @@
 = Doc-tracing
 
 
-== Fouiller une base de code fossile par tracage
+== Fouiller une base de code fossile par tracage d'execution
 
 [.jurassic-title]
 ****
@@ -19,7 +19,7 @@ La documentation disparue
 ****
 
 [.medium-text]
-*Luc Sorel-Giffo* -- jeudi 29 juin 2023 -- BreizhCamp
+*Luc Sorel-Giffo* -- jeudi 29 juin 2023 - 12h45 amphi D -- BreizhCamp
 
 [.medium-text]
 https://floss.social/@lucsorelgiffo[@lucsorelgiffo@floss.social]
