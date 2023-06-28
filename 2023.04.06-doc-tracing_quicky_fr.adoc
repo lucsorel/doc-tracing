@@ -177,6 +177,7 @@ image::assets/pydoc-module-math_cli.factorial.png[pydoc_factorial, 60%]
 [.notes]
 --
 Il existe plein d'outils dans tous les langages. Pour Python :
+
 - https://github.com/NiklasRosenstein/pydoc-markdown
 - https://pdoc3.github.io/pdoc/
 - https://mkdocstrings.github.io/

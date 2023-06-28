@@ -5,6 +5,8 @@ It is a mix of English and French talks.
 
 == Slideshows
 
+. link:2023.06.29-BreizhCamp-doc-tracing_quicky_fr.adoc[2023.06.29-BreizhCamp-doc-tracing_quicky_fr.adoc], _quicky_ given during of the https://www.breizhcamp.org/[BreizhCamp] 2023 edition (Brittany, France, 🇫🇷French contents).
+Pdf version: link:2023.06.29-BreizhCamp-doc-tracing_quicky_fr.pdf[2023.06.29-BreizhCamp-doc-tracing_quicky_fr.pdf].
 . link:2023.04.06-doc-tracing_quicky_fr.adoc[2023.04.06-doc-tracing_quicky_fr.adoc], _quicky_ given during the https://events.rennes.tech/events/f99fc1e8-66a3-4753-a8bb-2f32c3e67b53[Evening with the technical communities of Rennes] (Brittany, France, 🇫🇷French contents).
 Pdf version: link:2023.04.06-doc-tracing_quicky_fr.pdf[2023.04.06-doc-tracing_quicky_fr.pdf].
 
